@@ -35,3 +35,17 @@ rm -rf %{buildroot}
 %{ruby_gemdir}/gems/%{oname}-%{version}
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
 
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.3.4-2mdv2011.0
++ Revision: 614797
+- the mass rebuild of 2010.1 packages
+
+* Tue Feb 02 2010 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.3.4-1mdv2010.1
++ Revision: 499411
+- import rubygem-ruby-yadis
+
+
+* Mon Feb  2 2010 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.3.4-1
+- initial release
