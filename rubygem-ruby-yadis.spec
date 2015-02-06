@@ -3,7 +3,7 @@
 Summary:	A library for performing Yadis service discovery
 Name:		rubygem-%{oname}
 Version:	0.3.4
-Release:	%mkrel 2
+Release:	3
 License:	Apache License
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
